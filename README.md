@@ -1,2 +1,2 @@
 # Slug
-A walkie-talkie chat app
+## A simple chat app written in Electron
