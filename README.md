@@ -1,2 +1,2 @@
 # Slug
-## A simple chat app written in Electron
+## A simple group chat app written in Electron
