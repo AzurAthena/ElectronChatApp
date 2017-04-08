@@ -1,6 +1,9 @@
 # Slug
 ## A simple group chat app written in Electron
 
+#### Run from command prompt:
+   /path/to/main/folder electron . 
+
 ## App Screenshots
 <p align="center">
   <img src="https://github.com/AzurAthena/Slug/blob/master/screenshots/join_chat.PNG" width="350"/>
